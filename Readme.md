@@ -1,4 +1,7 @@
 # Diabetes Prediction
+
+Source Dataset: [Diabetes Dataset](https://www.kaggle.com/datasets/mohamedtarek111/diabetes-dataset?resource=download)
+
 ## Instalasi
 Clone repository dengan menjalankan perintah berikut:
 
