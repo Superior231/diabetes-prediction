@@ -1,0 +1,11 @@
+ipykernel==6.29.5
+ipympl==0.9.4
+matplotlib==3.9.2
+pandas==2.2.3
+psutil==6.0.0
+scikit-learn==1.5.2
+scipy==1.14.1
+tensorflow==2.17.0
+seaborn==0.13.2
+streamlit==1.39.0
+sympy==1.13.3
